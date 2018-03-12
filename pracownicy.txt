@@ -1,0 +1,6 @@
+5
+0 Karol Wejt programista
+1 Kacper Szerg prezes
+2 Bogdan Chor administracja
+3 Kamila Stolik prawnik
+4 Patrk Werter coach
